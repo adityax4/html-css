@@ -1,0 +1,25 @@
+p{
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.html{
+    font-weight: bold;
+    font-size: 20px;
+}
+.pro{
+    color: rgb(96, 96, 96);
+    margin-top: 5px;
+}
+.paragraph{
+    width: 300px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+button{
+    background-color: rgb(5, 136, 5);
+    color: white;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
