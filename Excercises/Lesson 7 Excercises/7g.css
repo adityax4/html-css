@@ -1,0 +1,21 @@
+img{
+    border-radius: 50%;
+    width: 40px;
+    vertical-align: middle;
+}
+
+button{
+    background-color: rgb(12, 105, 245);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    vertical-align: middle;
+}
+
+input{
+    border-radius: 30px;
+    border-style: solid;
+    vertical-align: middle;
+    border: none;
+}
