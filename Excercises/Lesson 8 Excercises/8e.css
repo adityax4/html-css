@@ -1,0 +1,34 @@
+p{
+    margin: 0;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    width: 250px;
+    padding: 10px 15px;
+    background-color: #F0F0F0;
+    border: none;
+}
+
+button{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.book{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.later{
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
