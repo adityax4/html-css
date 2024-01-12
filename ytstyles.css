@@ -1,4 +1,19 @@
+.searchbox{
+    display: block;
+    margin-bottom: 10px;
+}
+
 .osho{
     width: 350px;
     display: block;
+}
+
+.nanku{
+    width: 350px;
+    display: block;
+}
+
+div{
+    display: inline-block;
+    margin-right: 10px;
 }
