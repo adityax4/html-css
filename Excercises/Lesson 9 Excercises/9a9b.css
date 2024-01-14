@@ -1,0 +1,14 @@
+.square{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.circle{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
