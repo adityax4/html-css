@@ -1,13 +1,54 @@
 .a{
     display: flex;
+    flex-direction: row;
+}
+
+.b{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.c{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.d{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    align-items: center;
 }
 
 .blue{
     background-color: lightblue;
-    width: 200px;
 }
 
 .pink{
     background-color: lightpink;
+}
+
+.item1{
+    width: 200px;
+}
+.item2{
+    width: 75px;
+}
+
+.item11{
+    width: 50px;
+}
+.item12{
+    flex: 1;
+}
+.item13{
     width: 75px;
 }
